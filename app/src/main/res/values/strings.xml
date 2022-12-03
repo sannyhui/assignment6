@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Guess Number</string>
+    <string name="Hard" translatable="false">\?</string>
+    <string name="Easy" translatable="false">Easy</string>
+    <string name="additional_tips_3_times" translatable="false">Hints : 3 times left</string>
+    <string name="check_result" translatable="false">Guess</string>
+    <string name="no_match_found" translatable="false">""</string>
+    <string name="turn_no" translatable="false">Turn No.</string>
+    <string name="_1" translatable="false">0</string>
+</resources>

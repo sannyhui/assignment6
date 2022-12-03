@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess Number</string>
+    <string name="Easy">易</string>
+    <string name="Hard">\?</string>
+    <string name="additional_tips_3_times">提示： 3次</string>
+</resources>
